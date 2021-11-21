@@ -1,2 +1,2 @@
-FROM bishal231996/apachecontainer
+FROM bishal231996/apache
 ADD ./devopsIQ /var/www/html/devopsIQ
